@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{"A gem to interfaces with Factura.com API endpoints"}
   spec.description   = %q{"Connection to Factura.com API endpoints for making Mexican Government CFDIs"}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com:richipargo/facturaDotCom.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
